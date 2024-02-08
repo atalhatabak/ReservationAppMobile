@@ -12,16 +12,16 @@ npm install <br>
 npm start
 
 <h1>Örnek Kullanıcı Bilgileri</h1>
-email: atalhatabak[at]gmail.com
-password: Ben
-<a href="https://github.com/atalhatabak/ReservationAppApi/blob/main/database/seeders/UserSeeder.php">Bu Bağlantı</a> üzerinden veritabanında bulunan kullanıcıları görebilirsiniz
+email: atalhatabak[at]gmail.com<br>
+password: Ben<br>
+<a href="https://github.com/atalhatabak/ReservationAppApi/blob/main/database/seeders/UserSeeder.php">Bu Bağlantı</a> üzerinden veritabanında bulunan kullanıcıları görebilirsiniz<br>
 
 <h1>Özellikleri</h1>
-Giriş, Kayıt Ol
-Araç Ekle, Detay Görüntüle
-Kişisel Bilgileri Görüntüle, Düzenle
-Yeni Rezervasyon Oluştur, Görüntüle İptal Et
-Geçmiş veya İptal Edilen Rezervasyon Ayrıntılarını Görüntüle
-Günümüzden 6 Ay Sonrası İçin Rezervasyon Yapabilme
-Pazar Günlerini ve Halihazırda Var Olan Rezervasyonları Filtreleme
-İptal Edilen Rezervasyonların Tekrar Alınabilir Olması
+Giriş, Kayıt Ol <br>
+Araç Ekle, Detay Görüntüle <br>
+Kişisel Bilgileri Görüntüle, Düzenle <br>
+Yeni Rezervasyon Oluştur, Görüntüle İptal Et <br>
+Geçmiş veya İptal Edilen Rezervasyon Ayrıntılarını Görüntüle <br>
+Günümüzden 6 Ay Sonrası İçin Rezervasyon Yapabilme <br>
+Pazar Günlerini ve Halihazırda Var Olan Rezervasyonları Filtreleme <br>
+İptal Edilen Rezervasyonların Tekrar Alınabilir Olması <br>
